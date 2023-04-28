@@ -22,7 +22,7 @@ Android app about phone book
   
 - Nav Bar
 
-  <img src="\https://user-images.githubusercontent.com/69451633/235072087-855e3b0d-60cf-4b1e-b59a-ec67f92c9730.png" width="200px">
+  <img src="https://user-images.githubusercontent.com/69451633/235072087-855e3b0d-60cf-4b1e-b59a-ec67f92c9730.png" width="200px">
 
 - Trash
 
